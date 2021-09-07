@@ -8,8 +8,10 @@ https://andreapanico10.github.io
 
 Booking route is a project developed for the IOT course held by Professor Luigi Patrono at the UniSalento (degree in Computer Engineering).
 The project is a web app developed in Angular and Spring boot that aims to meet the needs of two actors:
-Companies or individuals operating in the world of transport: they already have a logistics base that organizes the scheduling of deliveries. A common problem is that in the entire delivery there will be routes where the vehicle does not travel completely full, so it can be made available to third party users to make single deliveries in the allowed capacity and in the already scheduled trip.
-Renters: individual users who want to use the services offered by companies as previously described.
-
+<ul>
+  <li>Companies or individuals operating in the world of transport: they already have a logistics base that organizes the scheduling of deliveries. A common problem          is that in the entire delivery there will be routes where the vehicle does not travel completely full, so it can be made available to third party users to make single deliveries in the allowed capacity and in the already scheduled trip.</li>
+  
+  <li>Renters: individual users who want to use the services offered by companies as previously described.</li>
+</ul>
 <img width="1439" alt="image" src="https://user-images.githubusercontent.com/82174591/131495534-7cc8b1e6-d35e-4399-be17-1983f08b3299.png">
 
